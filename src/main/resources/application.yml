@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: reporting-bcm
+  profiles:
+    active: local
+
+
+  main:
+    banner-mode: 'off'
+
